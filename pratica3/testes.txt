@@ -1,0 +1,32 @@
+
+//STALL - 0 - Stall used splash... Nothing happens!
+//ADD   - 1 - 0001 Destino Operando1 Operando2
+//SUB   - 2 - 0010 Destino Operando1 Operando2
+//MUL   - 3 - 0011 Destino Operando1 Operando2
+//DIV   - 4 - 0100 Destino Operando1 Operando2
+
+/*//Programa 1 - Soma com dependencia verdadeira
+ instrucao[0]=16'b0001000000010010; // r0=r1+r2
+ instrucao[1]=16'b0001000000000011;	// r0=r0+r3
+ PCnext=2;
+*///Fim do Programa 1 ---------------
+
+/*//Programa 2 - Soma com hazard estrutural
+ instrucao[0]=16'b0001000000010010; // r0=r1+r2
+ instrucao[1]=16'b0001000100010011;	// r1=r1+r3
+ PCnext=2;
+*///Fim do Programa 2 ---------------
+
+/*//Programa 3 - Dependencia CDB
+ instrucao[0]=16'b0011000000010010; // r0=r1*r2
+ instrucao[1]=16'b0011000100010011;	// r1=r1*r3
+ instrucao[2]=16'b0001010001010110;	// r4=r5+r6
+ PCnext=3;
+*///Fim do Programa 3 ---------------
+
+/*//Programa 4 - Estacao de reserva cheia
+ instrucao[0]=16'b0001000000010010; // r0=r1+r2
+ instrucao[1]=16'b0001000100010011;	// r1=r1+r3
+ instrucao[2]=16'b0001010001010110;	// r4=r5+r6
+ PCnext=3;
+*///Fim do Programa 4 ---------------

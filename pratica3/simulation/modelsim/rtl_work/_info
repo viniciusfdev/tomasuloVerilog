@@ -1,0 +1,52 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Positivo\Desktop\faculdade\LAOC2\pratica3\simulation\modelsim
+vpratica3
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 eaV6GJ;5>1f<<QK3[2R?d1
+InQG[A1DodJN1Fh6bh]]a=2
+V9YY3<[B^z;1zHFWnLQeP:0
+Z2 !s105 pratica3_v_unit
+S1
+Z3 dC:\Users\Positivo\Desktop\faculdade\LAOC2\pratica3\simulation\modelsim
+Z4 w1527306692
+Z5 8C:/Users/Positivo/Desktop/faculdade/LAOC2/pratica3/pratica3.v
+Z6 FC:/Users/Positivo/Desktop/faculdade/LAOC2/pratica3/pratica3.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z8 !s108 1527307007.524000
+Z9 !s107 C:/Users/Positivo/Desktop/faculdade/LAOC2/pratica3/pratica3.v|
+Z10 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Positivo/Desktop/faculdade/LAOC2/pratica3|C:/Users/Positivo/Desktop/faculdade/LAOC2/pratica3/pratica3.v|
+!s101 -O0
+Z11 o-sv -work work -O0
+Z12 !s92 -sv -work work +incdir+C:/Users/Positivo/Desktop/faculdade/LAOC2/pratica3 -O0
+vTomasulo
+R1
+!i10b 1
+!s100 mOM2UBMA8?FGh9M2RI8O:0
+IJi_Rg;@<I05iHh2e1dgKh0
+V`nKn0C_T0U[biY@Q]Obe12
+R2
+S1
+R3
+R4
+R5
+R6
+L0 45
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+R12
+n@tomasulo
